@@ -1,6 +1,6 @@
 # dbanxter
 
-Hi all! The dbanxter project is a web3 project made for Internet Computer. 
+Hi all! The dbanxter project is a web3 project made for Internet Computer. It's my first experiment with Motoko programming language.
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
 To learn more before you start working with dbanxter, see the following documentation available online:
